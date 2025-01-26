@@ -1,4 +1,4 @@
-This is the root repository for the [digital frontier wiki](digitalfrontier.cc). This wiki uses [ikiwiki](https://ikiwiki.info/).
+This is the root repository for the [digitalfrontier.cc](https://digitalfrontier.cc/)) wiki. This wiki uses [ikiwiki](https://ikiwiki.info/).
 
 As GitHub pages is static, there are currently two ways to contribute:
 * E-mail me with the contents, and I will make the changes on the wiki on this side. See the contributing page on digitalfrontier.cc for details.
