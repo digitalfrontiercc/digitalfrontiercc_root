@@ -16,7 +16,8 @@ Then clone the following two into the "digitalfrontiercc_root" directory:
 
 Now you should have a director "digitalfrontiercc_root", with inside "digitalfrontiercc", "digitalfrontiercc.github.io" and "digitalfrontiercc.setup"
 
-Make all changes to the wiki by editing .mdwn files in "digitalfrontiercc". To build, run "ikiwiki --setup digitalfrontiercc.setup" in the root folder. When done with all your changes, commit all your changes to both branches and make pull requests for both. 
+Make all changes to the wiki by editing .mdwn files in "digitalfrontiercc". To build, run "ikiwiki digitalfrontiercc digitalfrontiercc.github.io --refresh
+" in the root folder. When done with all your changes, commit all your changes to both branches and make pull requests for both. 
 (I know, this could've been done better. I'll get to it at some point)
 
 Refer to these pages if you run in to problems:
